@@ -1,0 +1,1 @@
+print(f"s has got {len(s)} elements")
